@@ -1,7 +1,7 @@
-Hi 👋 I'm Kavya
+<h1 style="text-align:center;">Hi 👋 I'm Kavya</h1>
 ======================
 
-Full Stack Developer and Software Develop :)
+Full Stack Developer and Software Developer :)
 
 
 ### Skills
