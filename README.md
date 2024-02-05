@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavya</h1>
 <h3 align="center">Full Stack Developer and Software Developer :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavyaballa1020&label=Profile%20views&color=0e75b6&style=flat" alt="kavyaballa1020" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kavyaballa1020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavyaballa1020" height="30" width="40" /></a>
