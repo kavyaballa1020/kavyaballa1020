@@ -1,8 +1,8 @@
-Hi 👋 My name is Kavya
+Hi 👋 I'm Kavya
 ======================
 
-Full Stack Developer and Software Developer :)
-----------------------------------------------
+Full Stack Developer and Software Develop :)
+
 
 ### Skills
 
