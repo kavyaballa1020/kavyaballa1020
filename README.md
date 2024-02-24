@@ -3,6 +3,8 @@
 
 - 🚀  I'm currently working on Personal Projects
 
+![](https://komarev.com/ghpvc/?username=kavyaballa1020)
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
