@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavya</h1>
 <h3 align="center">Full Stack Developer and Software Developer :)</h3>
 
-- 🚀  I'm currently working on Personal Projects
+- 🚀  I'm currently working on Full Stack Development
 
 ![](https://komarev.com/ghpvc/?username=kavyaballa1020)
 
