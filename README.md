@@ -40,7 +40,6 @@ I'm a full-stack software engineer passionate about creating innovative and user
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 </p>
 
-
 ### 📈 GitHub Stats
 
 <p align="center">
