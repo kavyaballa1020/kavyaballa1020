@@ -47,6 +47,8 @@ I'm a full-stack software engineer passionate about creating innovative and user
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyaballa1020&" width="400" height="200" alt="GitHub Streak" />
 </p>
 
+[![Kavya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavya1020&theme=github-compact)](https://github.com/kavyaballa1020/github-readme-activity-graph)
+
 ### 🌐 Connect with Me
 
 <p align="center">
