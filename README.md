@@ -42,8 +42,8 @@ I'm a full-stack software engineer passionate about creating innovative and user
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavyaballa1020&show_icons=true&locale=en" width="400" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyaballa1020&" width="400" height="200" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kavyaballa1020&show_icons=true&locale=en" width="400" height="300" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyaballa1020&" width="400" height="300" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavyaballa1020&show_icons=true&locale=en&layout=compact" width="300" height="200" alt="Top Languages" />
 </p>
 
