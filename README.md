@@ -14,6 +14,8 @@ I'm a full-stack software engineer passionate about creating innovative and user
 
 ### 🛠 Languages and Tools
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />&nbsp;
