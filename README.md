@@ -59,5 +59,7 @@ I'm a full-stack software engineer passionate about creating innovative and user
   <a href="https://instagram.com/kavyaballa1020" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
+<img src="https://raw.githubusercontent.com/kavyaballa1020/kavyaballa1020/output/snake.svg" alt="Snake animation" />
 
+###
 ###
