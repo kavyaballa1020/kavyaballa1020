@@ -47,7 +47,9 @@ I'm a full-stack software engineer passionate about creating innovative and user
   <img src="https://github-readme-stats.vercel.app/api?username=kavyaballa1020&show_icons=true&locale=en" width="400" height="200" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyaballa1020&" width="400" height="200" alt="GitHub Streak" />
 </p>
+<img src="https://raw.githubusercontent.com/kavyaballa1020/kavyaballa1020/output/snake.svg" alt="Snake animation" />
 
+###
 [![Kavya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavyaballa1020&theme=github-compact)](https://github.com/kavyaballa1020/github-readme-activity-graph)
 
 ### 🌐 Connect with Me
