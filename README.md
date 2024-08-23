@@ -60,6 +60,3 @@ I'm a full-stack software engineer passionate about creating innovative and user
 </p>
 
 <img src="https://raw.githubusercontent.com/kavyaballa1020/kavyaballa1020/output/snake.svg" alt="Snake animation" />
-
-###
-###
