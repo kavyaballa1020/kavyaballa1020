@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Kavya</h1>
-<h3 align="center">Full-Stack Software Engineer & Problem Solver 💻🚀</h3>
+<h3 align="center">Full-Stack Developer, Software Engineer, ABAP Developer & Problem Solver 💻🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kavyaballa1020&style=flat-square" alt="Profile Views" />&nbsp;
-  <a href="https://linkedin.com/in/ballakavya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/ballakavya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <p align="center">
   <em>Let's collaborate and build something amazing! 🤝</em>
 </p>
 
-I'm a full-stack software engineer passionate about creating innovative and user-friendly applications. With a strong foundation in programming principles and a keen eye for problem-solving, I thrive on tackling complex challenges and delivering seamless user experiences.
+---
+I'm a **Full-Stack Software Engineer** with experience in **ABAP Development**, passionate about building **innovative and user-friendly applications**. I have a **strong foundation in DSA** and problem-solving, with **5⭐ HackerRank** and **150+ LeetCode problems solved**.
+
 
 ### 🛠 Languages and Tools
 
