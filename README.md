@@ -34,6 +34,7 @@ I'm a **Full-Stack Software Engineer** with experience in **ABAP Development**, 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" />
+  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" width="36" />&nbsp;&nbsp;
 </p>
 
 ### 📈 GitHub Stats
